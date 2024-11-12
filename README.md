@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @YoftaheAbraham, Full stack developer
 - 👀 I’m interested in Database, API development...
-- 🌱 I’m currently learning Go land and Microservices
+- 🌱 I’m currently learning Go lang and Microservices
 - 💞️ I’m looking to collaborate on React/Node.js project...
 
 <!---
