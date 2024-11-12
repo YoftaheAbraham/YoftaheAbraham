@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @YoftaheAbraham, MERN stack developer
+- 👋 Hi, I’m @YoftaheAbraham, Full stack developer
 - 👀 I’m interested in Database, API development...
-- 🌱 I’m currently learning React native (expo), Python and Django
-- 💞️ I’m looking to collaborate on javascript/Node.js project...
+- 🌱 I’m currently learning Go land and Microservices
+- 💞️ I’m looking to collaborate on React/Node.js project...
 
 <!---
 YoftaheAbraham/YoftaheAbraham is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
