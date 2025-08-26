@@ -61,7 +61,6 @@
   
 <!-- GitHub Stats Cards -->
 <a href="https://github.com/YoftaheAbraham">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YoftaheAbraham&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YoftaheAbraham&layout=compact&theme=radical&hide_border=true" />
 </a>
 
