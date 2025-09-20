@@ -29,15 +29,7 @@
 **Databases:** PostgreSQL, MySQL, MongoDB, Redis, Firebase  
 **Testing & QA:** Jest, Cypress, PyTest, Postman  
 
----
 
-## 🎯 Focus Areas
-- Designing **scalable, maintainable web architectures**  
-- Optimizing **backend performance and APIs**  
-- Implementing **cloud solutions & CI/CD pipelines**  
-- Leading **open-source projects & mentoring juniors**  
-
----
 
 ## 📂 Selected Projects
 - **Smart Metrix BFF:** Serverless backend with Node.js, Redis, PostgreSQL  
