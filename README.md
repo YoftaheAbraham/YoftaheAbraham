@@ -37,11 +37,3 @@
 - **Portfolio Site:** Modern Next.js + Tailwind app  
 
 ---
-
-## 📫 Connect
-```text
-Email   : yoftahe.abr@gmail.com
-Portfolio: https://yoftahe.vercel.app
-LinkedIn : https://www.linkedin.com/in/yofabr/
-Twitter  : https://x.com/yof_abr
-GitHub   : https://github.com/YoftaheAbraham
