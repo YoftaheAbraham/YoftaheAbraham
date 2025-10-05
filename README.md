@@ -32,7 +32,7 @@
 
 
 ## 📂 Selected Projects
-- **Smart Metrix BFF:** Serverless backend with Node.js, Redis, PostgreSQL  
+- **Smart Metrix:** Agency Management Platform 
 - **Pollar:** Helps creators get audience info
 - **Portfolio Site:** Modern Next.js + Tailwind app  
 
