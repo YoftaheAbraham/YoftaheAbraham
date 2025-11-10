@@ -29,11 +29,3 @@
 **Databases:** PostgreSQL, MySQL, MongoDB, Redis, Firebase  
 **Testing & QA:** Jest, Cypress, PyTest, Postman  
 
-
-
-## 📂 Selected Projects
-- **Smart Metrix:** Agency Management Platform 
-- **Pollar:** Helps creators get audience info
-- **Portfolio Site:** Modern Next.js + Tailwind app  
-
----
