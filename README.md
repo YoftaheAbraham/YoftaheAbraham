@@ -4,9 +4,6 @@
 **Full-Stack Developer | Software Architect | Problem Solver**  
 
 <p>
-  <a href="https://github.com/YoftaheAbraham?tab=followers">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/YoftaheAbraham?color=green&logo=github">
-  </a>
   <a href="https://www.linkedin.com/in/yofabr/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
