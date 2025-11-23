@@ -20,7 +20,7 @@
 ---
 
 ## 💻 Tech Expertise
-**Frontend:** React, Next.js, Angular, Vue.js, TypeScript, Tailwind, SASS, Redux, Zustand  
+**Frontend:** React, Next.js, Angular, TypeScript, Tailwind, SASS, Redux, Zustand  
 **Backend:** Node.js, Express, NestJS, Python, Django, Flask, ASP.NET, GraphQL, REST APIs  
 **DevOps & Cloud:** Docker, Kubernetes, AWS, Azure, GitHub Actions, Terraform, CI/CD pipelines  
 **Databases:** PostgreSQL, MySQL, MongoDB, Redis, Firebase  
