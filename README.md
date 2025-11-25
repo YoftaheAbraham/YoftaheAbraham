@@ -1,7 +1,7 @@
 <div align="center">
 
 # 👋 Hey, I'm Yoftahe Abraham  
-**Full-Stack Developer | Software Architect | Problem Solver**  
+**Developer | Software Architect | Problem Solver**  
 
 <p>
   <a href="https://www.linkedin.com/in/yofabr/">
