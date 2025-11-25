@@ -24,5 +24,5 @@
 **Backend:** Node.js, Express, NestJS, Python, Flask, ASP.NET, GraphQL, REST APIs  
 **DevOps & Cloud:** Docker, Kubernetes, AWS, Azure, GitHub Actions, Terraform, CI/CD pipelines  
 **Databases:** PostgreSQL, MySQL, MongoDB, Redis, Firebase  
-**Testing & QA:** Jest, Cypress, PyTest, Postman  
+**Testing & QA:** Jest, PyTest, Postman
 
