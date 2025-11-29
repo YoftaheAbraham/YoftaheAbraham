@@ -1,7 +1,7 @@
 <div align="center">
 
 # 👋 Hey, I'm Yoftahe Abraham  
-**Developer | Always Learning**  
+**Developer | Always Learning new stuff**  
 
 <p>
   <a href="https://www.linkedin.com/in/yofabr/">
